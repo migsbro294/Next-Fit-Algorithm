@@ -2,7 +2,7 @@
 import java.util.Scanner;
 public class NextFit { 
 
-//Next fit algorithm 
+//Next fit algorithm
 
  static void NextFitt(int blockSize[], int m, int processSize[], int n) { 
      int frag[] = new int[20],j=1; 
